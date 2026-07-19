@@ -1,0 +1,25 @@
+name: Generate Galaga Game from GitHub Contributions
+
+on:
+  # Corre automaticamente a cada 24 horas
+  schedule:
+    - cron: "0 0 * * *"
+  
+  # Permite correr manualmente a qualquer momento
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate Galaga SVG
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_lines: yes
+          # Configuração específica do Galaga (usando o gerador de animações)
+          uses: jstrieb/github-profile-galaga@master
+          with:
+            username: ${{ github.repository_owner }}

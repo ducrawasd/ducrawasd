@@ -29,7 +29,7 @@ Feel free to check out my repositories and follow my journey!
 
 ## 🌎 Connect With Me
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/ducrawasd">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>

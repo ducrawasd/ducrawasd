@@ -70,31 +70,10 @@
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:marcosousalopes2011@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/real_ducra)
   [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/QdWJyNsN9R)
-  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)]([https://www.tiktok.com/@realducra) 
+  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@realducra) 
   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codepathpt)
   [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ducrawasd)
   
-  
 </div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-
-</div>
-
-##
-
-</details>
-
-<br>
-<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>

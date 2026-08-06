@@ -1,7 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050505,50:d1d5db,100:ffffff&text=DUCRA%20DEV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:d1d5db,100:ffffff&text=DUCRA%20DEV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+CODE+UNIVERSE"/>
+
+</div>
+
+---
 </div>
 
 **I'm a beginner developer from Portugal, currently exploring backend development and cybersecurity.**
@@ -35,6 +40,7 @@ Feel free to check out my repositories and follow my journey!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/real_ducra/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@realducra)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codepathpt)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ducrawasd)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosousalopes2011@gmail.com)
 
 </div>

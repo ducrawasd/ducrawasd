@@ -61,3 +61,21 @@ Feel free to check out my repositories and follow my journey!
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:d1d5db,100:ffffff"/>
+
+
+
+
+
+<p align="left">
+  <b style="font-size: 20px;">💻 Languages</b>
+  <span style="float: right;"><b style="font-size: 20px;">🛠️ Tools & Platforms</b></span>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <span style="float: right;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </span>
+</p>
+<br>

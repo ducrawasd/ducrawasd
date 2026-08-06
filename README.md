@@ -29,21 +29,11 @@ Feel free to check out my repositories and follow my journey!
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌎 Connect With Me
-
-<div align="left">
-
-<a href="https://github.com/ducrawasd">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </div>
 
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ducrawasd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@real_ducra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@realducra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCI8IuvqiGK8YJYISPLLxfHg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcosousalopes2011@gmail.com) 
 ###
+</div>
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducrawasd/ducrawasd/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">

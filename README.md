@@ -14,7 +14,7 @@ Feel free to check out my repositories and follow my journey!
 
 ---
 
-### 🚀 Quick Stats & Contact
+## 🚀 Quick Stats & Contact
 
 - 📚 **Currently learning:** Backend Development & Cybersecurity
 - 💻 **Working on:** Small projects with Python 🐍
@@ -23,9 +23,10 @@ Feel free to check out my repositories and follow my journey!
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🌎 Connect With Me
 

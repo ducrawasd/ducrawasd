@@ -31,7 +31,7 @@ Feel free to check out my repositories and follow my journey!
 ## 🌎 Connect With Me
 </div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ducrawasd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@real_ducra) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@realducra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCI8IuvqiGK8YJYISPLLxfHg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcosousalopes2011@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/ducrawasd](https://discord.gg/uQBtAEAM4W)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/@real_ducra](https://www.instagram.com/real_ducra/)) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)]([https://tiktok.com/@@realducra](https://www.tiktok.com/@realducra)) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://youtube.com/@https://www.youtube.com/channel/UCI8IuvqiGK8YJYISPLLxfHg](https://www.youtube.com/@codepathpt)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]([mailto:marcosousalopes2011@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTWBRlnCJhdBpvJLqTLgvGHDJBpRdsPLLKTCHJmcjgsmwvbxhbGchvdljprvBXlSDKfg)) 
 ###
 </div>
 

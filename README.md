@@ -76,14 +76,8 @@
   [![YouTube](https://img.shields.io/badge/YouTube-2e3440?style=for-the-badge&logo=YouTube&logoColor=fff)](https://www.youtube.com/@codepathpt)
   [![GitHub](https://img.shields.io/badge/GitHub-2e3440?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/ducrawasd)
   
-</div>
-</div>
-
-##
-
 </details>
 
-<br>
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>

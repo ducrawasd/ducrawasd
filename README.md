@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050505,50:2d3748,100:4a5568&text=DUCRA%20DEV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:050505,50:d1d5db,100:ffffff&text=DUCRA%20DEV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 </div>
 
@@ -51,4 +51,4 @@ Feel free to check out my repositories and follow my journey!
 ###
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:2d3748,100:4a5568"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:d1d5db,100:ffffff"/>

@@ -1,63 +1,100 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
+
+<div align="center">
+  <samp>
+    <b>
+      バックエンド開発者
+      <br>
+      Hi, my name is Marco !
+      <br>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/meow_♡-black" />
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=21&center=true&lines=I+am+from+Portugal;I'm+a+student+of+Socioeconomic+Sciences;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+<details align="center">
+    <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
+    <br>
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:d1d5db,100:ffffff&text=DUCRA%20DEV&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+| :-: | :-: | :-: |
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+CODE+UNIVERSE"/>
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+| :-: | :-: |
+  
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:marcosousalopes2011@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/real_ducra)
+  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/QdWJyNsN9R)
+  [![TikTok](https://img.shields.io/badge/Reddit-2e3440?style=for-the-badge&logo=Reddit&logoColor=fff)]([https://www.tiktok.com/@realducra) 
+  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codepathpt)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ducrawasd)
+  
+  
+</div>
+
+<div align="center">
+
+<p align="center">
+      <samp>
+        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
+        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
+        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
+        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+      </samp>
+  </p>
 
 </div>
 
----
-</div>
+##
 
-**I'm a beginner developer from Portugal, currently exploring backend development and cybersecurity.**
+</details>
 
-Hi, I'm Marco! 👋
-I'm a 15-year-old student from Portugal, currently in my 10th year studying Socioeconomic Sciences. 
-Tech and programming are my main hobbies. Right now, I'm pretty focused on backend development with Python and learning the basics of cybersecurity. I really enjoy figuring out how things work under the hood and writing my own scripts.
-When I'm not learning about cybersecurity or Python, I'm usually playing games, listening to music, or watching anime. 
-Feel free to check out my repositories and follow my journey!
+<br>
+<br>
 
----
-
-## 🚀 Quick Stats & Contact
-
-- 📚 **Currently learning:** Backend Development & Cybersecurity
-- 💻 **Working on:** Small projects with Python 🐍
-- 🌍 **Based in:** Portugal 🇵🇹
-- 📫 **Contact:** marcosousalopes2011@gmail.com
-
----
-
-## 🛠️ Technologies & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## 🌎 Connect With Me
-</div>
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uQBtAEAM4W)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/real_ducra/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@realducra)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@codepathpt)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ducrawasd)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosousalopes2011@gmail.com)
-
-</div>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducrawasd/ducrawasd/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducrawasd/ducrawasd/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ducrawasd/ducrawasd/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=ducrawasd.ducrawasd&"  />
-</div>
-
-###
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:d1d5db,100:ffffff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5cadc0&height=100&section=footer"/>

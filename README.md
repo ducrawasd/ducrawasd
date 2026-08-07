@@ -34,6 +34,15 @@
       </samp>
     </summary>
     <br>
+
+**I'm a beginner developer from Portugal, currently exploring backend development and cybersecurity.**
+
+I'm a 15-year-old student from Portugal, currently in my 10th year studying Socioeconomic Sciences. 
+Tech and programming are my main hobbies. Right now, I'm pretty focused on backend development with Python and learning the basics of cybersecurity. I really enjoy figuring out how things work under the hood and writing my own scripts.
+When I'm not learning about cybersecurity or Python, I'm usually playing games, listening to music, or watching anime. 
+Feel free to check out my repositories and follow my journey!
+
+  
 <div align="center">
 
 <div align="center">

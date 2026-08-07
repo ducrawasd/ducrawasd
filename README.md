@@ -164,15 +164,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ducrawasd/ducrawasd/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
-###
- 
-<br>
-
-##
-
-<br>
-
 ---
+
+## `$ ping -c 4 social_links`
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0f172a,50:0e7490,100:5cadc0&text=DUCRA&fontColor=FFFFFF&fontSize=70&stroke=FFFFFF&strokeWidth=1.5&animation=fadeIn&textBg=false"/>
 
 <div align="center">

@@ -152,7 +152,9 @@
 </table>
 
 ---
+<div align="left">
 
+## `$ exec pacman.sh`
 
 <br>
 <br>
@@ -169,6 +171,9 @@
 ##
 
 <br>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=300&color=0:0f172a,50:0e7490,100:5cadc0&text=DUCRA&fontColor=FFFFFF&fontSize=70&stroke=FFFFFF&strokeWidth=1.5&animation=fadeIn&textBg=false"/>
 
 <div align="center">
 

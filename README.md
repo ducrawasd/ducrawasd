@@ -25,6 +25,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FFFFFF&width=900&size=21&center=true&lines=I+am+from+Portugal;I'm+a+student+of+Socioeconomic+Sciences;Be+welcome!" alt="Typing SVG"/>
 </div>
 
+<div align="center" width="100%">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=ducrawasd&label=VISITORS&color=5cadc0&style=flat-square)](https://github.com/ducrawasd)
+[![Followers](https://img.shields.io/github/followers/ducrawasd?label=FOLLOWERS&style=flat-square&color=5cadc0&labelColor=0d1117)](https://github.com/ducrawasd?tab=followers)
+[![Stars](https://img.shields.io/github/stars/ducrawasd?label=STARS&style=flat-square&color=5cadc0&labelColor=0d1117)](https://github.com/ducrawasd?tab=stars)
+
 <br>
 <details align="center">
     <summary>

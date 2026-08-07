@@ -98,6 +98,62 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ducrawasd&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ducrawasd&theme=nord)](https://git.io/streak-stats) |
 
 </div>
+ 
+---
+<div align="left">
+
+## `$ cat roadmap.md`
+
+```bash
+> LEARNING QUEUE
+
+  [~] Python & Backend Development ......... in progress
+  [~] Cybersecurity Fundamentals ........... in progress
+  [ ] Linux & Terminal Mastery ............. queued
+  [ ] REST APIs with Python ................ queued
+  [ ] Networking & Web Security ............ queued
+  [ ] Automation Scripts ................... queued
+
+> _
+```
+
+
+---
+<div align="left">
+
+## `$ locale && cat traits.txt`
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+
+| | | |
+|:--|:--|:--|
+| 🇵🇹 | Portuguese | `native` |
+| 🇬🇧 | English | `improving` |
+| 🇪🇸 | Spanish | `basic` |
+
+</td>
+<td valign="top" width="50%">
+
+**Traits**
+
+| | |
+|:--|:--|
+| `curious` | always eager to learn how things work |
+| `persistent` | keeps trying until bugs are solved |
+| `organized` | clean code and structured notes |
+| `adaptable` | quick to pick up new tools |
+
+</td>
+</tr>
+</table>
+
+---
+
+
 <br>
 <br>
 <picture data-importer="pacman">
@@ -108,21 +164,6 @@
 
 ###
  
-</div>
-
-<div align="center" style="display: inline_block"><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kali-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Powershell-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" />
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Obsidian-Dark.svg" />
-</div>
-
 <br>
 
 ##
